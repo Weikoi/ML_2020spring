@@ -36,5 +36,5 @@ def train_model(model_name):
 
 
 if __name__ == '__main__':
-    model_chosen = "tree"
+    model_chosen = "Lasso"
     train_model(model_chosen)
